@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weatherReact/static/css/main.f2c7b4b7.css",
+    "main.js": "/weatherReact/static/js/main.999f2927.js",
+    "static/media/background.jpg": "/weatherReact/static/media/background.3c118f4fdc129bd91f33.jpg",
+    "index.html": "/weatherReact/index.html",
+    "main.f2c7b4b7.css.map": "/weatherReact/static/css/main.f2c7b4b7.css.map",
+    "main.999f2927.js.map": "/weatherReact/static/js/main.999f2927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c7b4b7.css",
+    "static/js/main.999f2927.js"
+  ]
+}
